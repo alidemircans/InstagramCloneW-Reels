@@ -1,4 +1,4 @@
-# insta_clone
+# insta_clone for InfoTechAcademy Education
 
 A new Flutter project.
 
